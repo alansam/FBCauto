@@ -1,0 +1,14 @@
+202100
+Testing auto => 10.78
+   0.000   1.000   0.100
+  10.780  11.780  10.880
+
+A: d = double
+B: St16initializer_listIdE = std::initializer_list<double>
+C: PKd = double const*
+D: d = double
+E: St6vectorIdSaIdEE = std::vector<double, std::allocator<double> >
+F: d = double
+G: N9__gnu_cxx17__normal_iteratorIPdSt6vectorIdSaIdEEEE = __gnu_cxx::__normal_iterator<double*, std::vector<double, std::allocator<double> > >
+H: d = double
+I: Z4mainEUlRKT_E_ = main::{lambda(auto:1 const&)#1}
